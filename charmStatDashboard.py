@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 19 17:52:56 2021
 
-@author: santi
-"""
-#Includes cost !
 import deribit_data as dm
 import pandas as pd
 
